@@ -1,4 +1,9 @@
-TODO_plugin_name:
-  plugin_name_enabled:
-    default: false
+plugins:
+  user_status_allowed_groups:
     client: true
+    type: group_list
+    list_type: compact
+    default: ""
+    allow_any: false
+    refresh: true
+    area: "group_permissions"
