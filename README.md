@@ -35,7 +35,7 @@ When you modify the `user_status_allowed_groups` setting:
 ### Group Removal
 When a user is removed from an allowed group:
 - If they're not in any other allowed groups, their status is cleared
-- This applies whether removed via `/admin/groups` or `/admin/users`
+- This applies whether removed via `/admin/groups` or `/admin/users` (or if they leave voluntarily)
 
 ### Admin Users
 Admins bypass all restrictions and can always set/update their status, even if they're not in any selected group.
