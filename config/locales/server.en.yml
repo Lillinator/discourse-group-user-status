@@ -1,1 +1,4 @@
 en:
+  site_settings:
+    user_status_allowed_groups: "Specify which groups are allowed to set a user status. `Enable_user_status` setting must be enabled. Leave blank for everyone. Admins can always set and change their status regardless of which groups are selected."
+    
