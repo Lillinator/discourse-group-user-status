@@ -62,6 +62,7 @@ If you have the [Discourse Calendar plugin](https://github.com/discourse/discour
 - Let only your admins get coffee breaks! 
 
 ---
+**Discourse Meta Topic**: https://meta.discourse.org/t/discourse-group-user-status/393748
 
 **Support**: For issues or feature requests, please start a PR on this repo.  
 
