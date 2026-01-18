@@ -1,6 +1,6 @@
 # Discourse Group User Status
 
-A Discourse plugin that restricts the user status feature to specific groups.
+A simple Discourse plugin that allows forum administrators to restric the user status feature to specific user groups.
 
 ## Overview
 
