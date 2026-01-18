@@ -53,11 +53,7 @@ If you have the [Discourse Calendar plugin](https://github.com/discourse/discour
 - Holiday statuses set by the Calendar plugin are preserved by this plugin
 - **Rare edge case:** If a user manually overwrites their holiday status, and an admin removes their group from `user_status_allowed_groups` during their scheduled holiday, the manual status will be cleared
 - The Calendar plugin automatically resets holiday statuses every 10 minutes, so any cleared status is restored at the next scheduled run
-- Users cannot manually set or edit statuses if they're not in an allowed group
-
-In practice, this edge case is extremely rare and self-correcting within 10 minutes.
-
-**Note:** Users still cannot manually edit their status if they're not in an allowed group, even if they have an active holiday status.
+- Users cannot manually set or edit statuses if they're not in an allowed group and have a scheduled holiday status
 
 ## Example Use Cases
 - Limit to staff members only, category moderators, etc.
