@@ -64,6 +64,6 @@ If you have the [Discourse Calendar plugin](https://github.com/discourse/discour
 ---
 **Discourse Meta Topic**: https://meta.discourse.org/t/discourse-group-user-status/393748
 
-**Support**: For issues or feature requests, please start a PR on this repo.  
+**Support**: For issues or feature requests, please post in the [Meta topic](https://meta.discourse.org/t/discourse-group-user-status/393748) or start a PR on this repo.  
 
 **To hire me or buy me coffee**: visit me here: [Lilly@Discourse Meta](https://meta.discourse.org/u/Lilly/summary).
