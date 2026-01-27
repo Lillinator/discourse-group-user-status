@@ -25,6 +25,10 @@ Enable the core user status feature:
    - In the `user_status_allowed_groups` setting, select which groups can set user statuses
    - Leave empty for default behavior (all users can set statuses)
 
+<img width="70%" height="70%" alt="image" src="https://github.com/user-attachments/assets/4ebe488e-8aff-4a3b-a2c4-94d398221f4b" />
+
+<br>
+
 ## Behavior
 
 ### Permission Changes
